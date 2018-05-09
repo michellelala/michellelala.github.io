@@ -1,3 +1,3 @@
-## A super simple personal website
+## Something Personal
 
-All credits for design and layout go to HTML5Up.net.
+A colorful website to showcase my projects and resume.
