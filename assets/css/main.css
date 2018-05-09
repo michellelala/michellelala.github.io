@@ -2808,7 +2808,7 @@ input[type="button"]:disabled,
 /* One */
 
 #one:before {
-  background-image: url("../../images/brushes.jpeg");
+  background-image: url("../../images/flowers.jpg");
   background-position: top right;
   background-repeat: no-repeat;
   background-size: cover;
